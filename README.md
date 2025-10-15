@@ -11,10 +11,10 @@
 
 ### 提醒通知
 ![image2](https://github.com/user-attachments/assets/95537ba7-987b-4ba7-8a5d-768c71d8e1fe)
-*下班打卡通知示例*
+*打卡提醒设置弹窗*
 
 ---
 
 ### 设置界面
 ![image3](https://github.com/user-attachments/assets/06ce49de-14d9-4645-8618-7efc4a742a99)
-*打卡提醒设置界面*
+*下班打卡通知示例*
